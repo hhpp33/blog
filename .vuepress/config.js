@@ -12,7 +12,8 @@ module.exports = {
         repoLabel: 'My GitHub',
         sidebar: [
             ['/', '首页'],
-            ['/blog/collection.md', 'Laravel 集合(Collection)源代码分析']
+            ['/blog/collection.md', 'Laravel 集合(Collection)源代码分析'],
+            ['/blog/arr.md', 'Laravel 数组(Arr)源代码分析']
         ]
     }
 }
